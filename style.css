@@ -1,0 +1,51 @@
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.tilo{
+	margin:10px;
+	padding:25px;
+	background-color:#E5E5E4;
+	border-radius: 5px;
+}
+.col-lg-4{
+	border-radius: 5px;
+	background-color: #1E2939;
+}
+
+#log{
+	width: 100%;
+	margin-top:40px;
+	margin-bottom: 50px;
+	border-radius: 5px;
+}
+
+.contInfo{
+	margin:50px;
+}
+
+.contact-c{
+	color:silver;
+}
+.col-lg-8{
+	padding:50px;
+}
+.zagolovok{
+	color:#1E2939;
+	font-size: 50px;
+}
+.informacija{
+	margin-left: 50px;
+}
+span{
+	font-size: 15px;
+}
+.h1{
+	padding-top: 20px;
+}
+.foto{
+	width: 250px;
+}
+
